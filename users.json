@@ -1,0 +1,176 @@
+{
+    "status": "200 ok",
+    "data": [
+        {
+            "id": 1,
+            "firstName": "Yaffi",
+            "lastName": "Azmi",
+            "profileImageUrl": "https://drive.google.com/uc?id=1rZpM9fljvEoscX-n7CEwoP-HYE5KHOTm",
+            "backgroundImageUrl": "https://drive.google.com/uc?id=1HPUSLtrycnIHQAcshH9j8HiSlKxSmVnG",
+            "username": "Mancai",
+            "phoneNumber": 81210028736,
+            "age": 17,
+            "address": "jl. pemandian, jorong minang jaya, Tanah datar",
+            "city": "Padang",
+            "state": "Indonesia",
+            "email": "yaffiazmi.dev@gmail.com",
+            "sosialMedia": [
+                {
+                    "title": "Facebook",
+                    "url": "https://www.facebook.com/vandal04"
+                },
+                {
+                    "title": "Instagram",
+                    "url": "https://www.instagram.com/_yaffiazmi04"
+                },
+                {
+                    "title": "Github",
+                    "url": "https://www.github.com"
+                },
+                {
+                    "title": "Linkedin",
+                    "url": "https://www.linkedin.com"
+                },
+                {
+                    "title": "Youtube",
+                    "url": "https://www.youtube.com"
+                },
+                {
+                    "title": "Twiter",
+                    "url": "https://www.twiter.com"
+                }
+            ],
+            "gallery": [
+                {
+                    "type": "photo",
+                    "url": "www.apple.com",
+                    "caption": "nice"
+                },
+                {
+                    "type": "video",
+                    "url": "www.apple.com",
+                    "caption": "nice"
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "firstName": "Otong",
+            "lastName": "joni",
+            "profileImageUrl": "https://drive.google.com/uc?id=1HPUSLtrycnIHQAcshH9j8HiSlKxSmVnG",
+            "backgroundImageUrl": "",
+            "username": "jhontong",
+            "phoneNumber": 81210020736,
+            "age": 17,
+            "address": "jl. minang sumanik, jorong 2 sumanik",
+            "city": "Batam",
+            "state": "Indonesia",
+            "email": "jhontong04@gmail.com",
+            "sosialMedia": [
+                {
+                    "title": "Facebook",
+                    "url": "https://www.facebook.com/vandal04"
+                },
+                {
+                    "title": "Instagram",
+                    "url": "https://www.instagram.com/_yaffiazmi04"
+                },
+                {
+                    "title": "Github",
+                    "url": "https://www.github.com"
+                },
+                {
+                    "title": "Linkedin",
+                    "url": "https://www.linkedin.com"
+                },
+                {
+                    "title": "Youtube",
+                    "url": "https://www.youtube.com"
+                },
+                {
+                    "title": "Twiter",
+                    "url": "https://www.twiter.com"
+                }
+            ],
+            "gallery": [
+                {
+                    "type": "photo",
+                    "url": "www.apple.com",
+                    "caption": "nice"
+                },
+                {
+                    "type": "video",
+                    "url": "www.apple.com",
+                    "caption": "nice"
+                },
+                {
+                    "type": "video",
+                    "url": "www.apple.com",
+                    "caption": "nice"
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "firstName": "Samsudin",
+            "lastName": "tea",
+            "profileImageUrl": "https://drive.google.com/uc?id=1rZpM9fljvEoscX-n7CEwoP-HYE5KHOTm",
+            "backgroundImageUrl": "",
+            "username": "Sudin Mak Puak",
+            "phoneNumber": 81287028729,
+            "age": 17,
+            "address": "jl. pemandian, jorong minang jaya, Tanah datar",
+            "city": "Padang",
+            "state": "Indonesia",
+            "email": "Sudinmakpuak@gmail.com",
+            "sosialMedia": [
+                {
+                    "title": "Facebook",
+                    "url": "https://www.facebook.com/vandal04"
+                },
+                {
+                    "title": "Instagram",
+                    "url": "https://www.instagram.com/_yaffiazmi04"
+                },
+                {
+                    "title": "Github",
+                    "url": "https://www.github.com"
+                },
+                {
+                    "title": "Linkedin",
+                    "url": "https://www.linkedin.com"
+                },
+                {
+                    "title": "Youtube",
+                    "url": "https://www.youtube.com"
+                },
+                {
+                    "title": "Twiter",
+                    "url": "https://www.twiter.com"
+                }
+            ],
+            "gallery": [
+                {
+                    "type": "photo",
+                    "url": "www.apple.com",
+                    "caption": "nice"
+                },
+                {
+                    "type": "video",
+                    "url": "www.apple.com",
+                    "caption": "nice"
+                },
+                {
+                    "type": "photo",
+                    "url": "www.apple.com",
+                    "caption": "nice"
+                },
+                {
+                    "type": "video",
+                    "url": "www.apple.com",
+                    "caption": "nice"
+                }
+            ]
+        }
+    ]
+}
