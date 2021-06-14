@@ -1,0 +1,24 @@
+{
+	"status": "200 OK",
+	"users": [{
+		"full_name": "Thor odinson",
+		"username": "thor",
+		"email": "thor@gmail.com",
+		"ava_url": "https://drive.google.com/file/d/1y5pDKr_DyRKWL8F9qUG151yT3iPCizYt/view?usp=sharing"
+	},{
+		"full_name": "Thanos",
+		"username": "thanos",
+		"email": "thanos@gmail.com",
+		"ava_url": "https://drive.google.com/file/d/1QGdfylmkoQbI4cfZByRXv5Ma0miI4qaM/view?usp=sharing"
+	},{
+		"full_name": "Toni Stark",
+		"username": "ironman",
+		"email": "ironman@gmail.com",
+		"ava_url": "https://drive.google.com/file/d/1zfbyRbRumlhCTz0RieqBVroWHRvkYl7K/view?usp=sharing"
+	},{
+		"full_name": "Baby Groot",
+		"username": "babygroot",
+		"email": "babygroot@gmail.com",
+		"ava_url": "https://drive.google.com/file/d/1zfbyRbRumlhCTz0RieqBVroWHRvkYl7K/view?usp=sharing"
+	}]
+}
