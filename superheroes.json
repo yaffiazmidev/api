@@ -1,6 +1,6 @@
 {
 	"status": "200 OK",
-	"users": [{
+	"heroes": [{
 		"full_name": "Thor odinson",
 		"username": "thor",
 		"email": "thor@gmail.com",
